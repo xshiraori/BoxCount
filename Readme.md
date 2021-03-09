@@ -1,6 +1,6 @@
 ## Box-counting 2D images to compute the fractal dimension ##
 
-This is a simple implementation of Hausdorff dimension computation using the box-counting method.
+Implementation of Hausdorff dimension computation using the box-counting method.
 
 An example of the computation process can be seen below.
 
