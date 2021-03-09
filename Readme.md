@@ -7,7 +7,7 @@ An example of the computation process can be seen below.
 ![](https://galileounbound.files.wordpress.com/2020/12/image-16.png?w=512)
 
 ## Usage and restrictions ##
-- The algorithm converts non-white pixels to one and other pixels to zero.
+- The algorithm marks non-white pixels as one and white pixels as zero.
 - To be more precise about the result, it only accepts NxN images as input.
 
 **Example usage**,
