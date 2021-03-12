@@ -15,7 +15,7 @@ An example of the computation process can be seen below.
     from ImageFractalDimension import ImageFractalDimension
 
 	image = ImageFractalDimension('sierpinski_512x512.png', 512)
-    # print(image.fractal_dim)
+    print(image.fractal_dim) # result will be printed on the graph so this is just an example to show you the attribute if you want to use the result
     image.graph()
 
 **Output**:
