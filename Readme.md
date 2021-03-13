@@ -13,8 +13,11 @@ An example of the computation process can be seen below.
 **Example usage**,
 
     from ImageFractalDimension import ImageFractalDimension
-
-	image = ImageFractalDimension('sierpinski_512x512.png', 512)
+    
+    image_name = 'sierpinski_512x512.png'
+    image_size = 512
+    
+	image = ImageFractalDimension(image_name, image_size)
     print(image.fractal_dim) # result will be printed on the graph so this is just an example to show you the attribute if you want to use the result
     image.graph()
 
