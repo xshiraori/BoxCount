@@ -2,7 +2,7 @@
 
 ### Hausdorff Dimension
 
->"The Hausdorff dimension is a measure of the "roughness" or "complexity" of a geometric object or a set in a metric space. It helps to describe the scaling properties of >fractals and irregular shapes. The Hausdorff dimension can be an integer or a non-integer value, depending on the object being measured. It provides a way to quantify >the space-filling properties of an object, particularly when the object does not fit well into traditional Euclidean dimensions (such as points, lines, or planes)."
+>"The Hausdorff dimension is a measure of the "roughness" or "complexity" of a geometric object or a set in a metric space. It helps to describe the scaling properties of fractals and irregular shapes. The Hausdorff dimension can be an integer or a non-integer value, depending on the object being measured. It provides a way to quantify the space-filling properties of an object, particularly when the object does not fit well into traditional Euclidean dimensions (such as points, lines, or planes)."
 
 An example of the computation process can be seen below.
 
