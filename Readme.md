@@ -27,4 +27,4 @@ An example of the computation process can be seen below.
 
 ![Imgur](https://i.imgur.com/zJYjLEZ.png)
 
-While the result is not exactly equal to 1.58... this is the best result I manage to get comparing with other available libraries/packages.
+While the result is not exactly equal to ln(3) / ln(2) this is the best result I manage to get comparing with other available libraries/packages.
