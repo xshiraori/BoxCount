@@ -14,7 +14,7 @@ An example of the computation process can be seen below.
 
 **Example usage**,
 
-    from ImageFractalDimension import ImageFractalDimension
+    from ImageFractalDimension import *
     
     image_name = 'sierpinski_512x512.png'
     image_size = 512
