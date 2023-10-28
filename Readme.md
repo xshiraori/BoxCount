@@ -11,6 +11,7 @@ An example of the computation process can be seen below.
 ## Usage and restrictions ##
 - The algorithm marks non-white pixels as one and white pixels as zero.
 - To be more precise about the result, it only accepts NxN images as input.
+- PIL and matplotlib required.
 
 **Example usage**,
 
